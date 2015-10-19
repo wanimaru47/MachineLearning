@@ -1,2 +1,2 @@
 # MachineLearning
-This is a reposotory for machine learning (and deep learning).  
+This is a reposotory for machine learning(deep learning).  
